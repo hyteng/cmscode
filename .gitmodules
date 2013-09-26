@@ -1,0 +1,18 @@
+[submodule "CSCSegment2RPC"]
+	path = CSCSegment2RPC
+	url = ./CSCSegment2RPC
+[submodule "RPCBendingAnalyzer"]
+	path = RPCBendingAnalyzer
+	url = ./RPCBendingAnalyzer
+[submodule "RPCSeedGenerator"]
+	path = RPCSeedGenerator
+	url = ./RPCSeedGenerator
+[submodule "RPCSeedProducer"]
+	path = RPCSeedProducer
+	url = ./RPCSeedProducer
+[submodule "RPCSeedValidator"]
+	path = RPCSeedValidator
+	url = ./RPCSeedValidator
+[submodule "TrackAnalyzerbyAssociator"]
+	path = TrackAnalyzerbyAssociator
+	url = ./TrackAnalyzerbyAssociator
